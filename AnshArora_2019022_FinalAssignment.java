@@ -1,10 +1,3 @@
-//CO ENDSEM ASSIGNMENT
-//Name: Ansh Arora
-//Roll No: 2019022
-//Section: A
-//Group: 3
-//Experimentation#2
-
 import java.util.*;
 import java.lang.Math;
 import java.lang.*;
